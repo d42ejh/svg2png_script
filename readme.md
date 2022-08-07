@@ -1,5 +1,5 @@
 # What is this?
-Script that convert and resize svg files to png format.
+Script that converts and resizes svg files to png format.
 
 # Why?
 To generate icons for Qt projects.
