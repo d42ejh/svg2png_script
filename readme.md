@@ -14,7 +14,7 @@ https://github.com/python-pillow/Pillow
 https://github.com/deeplook/svglib
 
 ```
-pip3 install svglib pillow
+pip install svglib pillow
 ```
 
 ## Example
