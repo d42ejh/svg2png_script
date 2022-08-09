@@ -34,6 +34,8 @@ def main():
     out_dir=current_dir/ out_dir_name
     if out_dir.exists():
         print('[!] {} already exists.'.format(out_dir))
+        return
+    
     os.mkdir(out_dir)
 
     if not svg_dir.is_dir() or not svg_dir.exists():
